@@ -1,0 +1,28 @@
+{
+    "kline":{
+        "high":"高",
+        "low":"低",
+        "15min":"15分钟",
+        "1hour":"1小时",
+        "4hour":"4小时",
+        "1day":"1天",
+        "more":"更多",
+        "line":"分时",
+        "1min":"1分钟",
+        "5min":"5分钟",
+        "30min":"30分钟",
+        "1week":"1周",
+        "1mon":"1月",
+        "depth":"深度图",
+        "main":"主图",
+        "sub":"副图",
+        "exchange":"币币",
+        "ma":"均线",
+        "boll":"BOLL",
+        "vol":"VOL",
+        "macd":"MACD",
+        "kdj":"KDJ",
+        "rsi":"RSI",
+        "wr":"WR"
+    }
+}

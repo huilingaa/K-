@@ -1,0 +1,28 @@
+{
+    "kline":{
+        "high":"High",
+        "low":"Low",
+        "15min":"15min",
+        "1hour":"1hour",
+        "4hour":"4hour",
+        "1day":"1day",
+        "more":"More",
+        "line":"line",
+        "1min":"1min",
+        "5min":"5min",
+        "30min":"30min",
+        "1week":"1week",
+        "1mon":"1mon",
+        "depth":"Depth",
+        "main":"Main",
+        "sub":"Sub",
+        "exchange":"Exchange",
+        "ma":"MA",
+        "boll":"BOLL",
+        "vol":"VOL",
+        "macd":"MACD",
+        "kdj":"KDJ",
+        "rsi":"RSI",
+        "wr":"WR"
+    }
+}
